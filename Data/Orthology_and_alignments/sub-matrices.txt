@@ -1,0 +1,14 @@
+Sub-matrix	Controlling for	Threshold	Gene count	unopinionated quartets
+SOG10	-	-	9002	1.9 %
+SOG10_buscos	unconserved genes	-	1418	7.4 %
+SOG10_tax_occ	low taxon occupancy	28	2162	1.5 %
+SOG10_saturation	underestimation of distances between taxa	0.57446	1981	5.7 %
+SOG10_treeness	long terminal branches	0.3817	1984	7.4 %
+SOG10_pis_percent	low proportion of informative sites	66.2228	1981	1.9 %
+SOG10_treeness_over_rcv	low signal-to-noise ratio and composition bias	1.61688	1981	3.4 %
+SOG10_alignment_len_nogaps	low information/bad alignments	99	2014	29.8 %
+SOG10_avg_bipartition_support	low signal-to-noise ratio	70.5441	1981	80.3 %
+SOG10_rev_evo_rate	fast-evolving genes	-0.17992	1980	4.4 %
+SOG10_rev_rcv	AA composition bias	0.7897	1982	2.9 %
+SOG10_rev_sdlb_score	long branches bias	-13.44384	1980	12.9 %
+SOG10_rev_avg_branch_len	long branches bias	6.25	2329	93.8 %
