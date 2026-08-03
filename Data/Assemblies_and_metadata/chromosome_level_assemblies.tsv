@@ -1,0 +1,94 @@
+Species	Clade	Size (Mb)	Repeat (%)	Scaffolds	Chromosome count	Completeness (% gene, by ANNEVO)
+Hermodice carunculata	Amphinomida	2104	47.56	2,862	19	C:88.7%[S:87.8%,D:0.9%],F:7.6%,M:3.7%,n:672
+Capitella teleta	Capitellida	277	39.85	476	10	C:83.8%[S:80.4%,D:3.4%],F:10.6%,M:5.7%,n:672
+Ochetostoma sp. New Caledonia	Capitellida	1370	42.49	44	17	C:86.6%[S:85.0%,D:1.6%],F:9.2%,M:4.2%,n:672
+Urechis unicinctus	Capitellida	1194	27.78	1,395	17	C:83.8%[S:82.6%,D:1.2%],F:10.0%,M:6.2%,n:672
+Cirriformia tentaculata	Cirratuliformia	584	NA	631	18	C:94.0%[S:92.0%,D:2.1%],F:3.9%,M:2.1%,n:672
+Flabesymbios commensalis	Cirratuliformia	1635	58.59	1,024	17	C:87.5%[S:85.0%,D:2.5%],F:7.6%,M:4.9%,n:672
+Ailoscolex lacteospumosus	Clitellata	493	33.46	24	17	C:72.5%[S:70.8%,D:1.6%],F:17.4%,M:10.1%,n:672
+Allolobophora icterica	Clitellata	1118	56.01	357	16	C:82.0%[S:79.0%,D:3.0%],F:11.9%,M:6.1%,n:672
+Allolobophora molleri	Clitellata	1375	64.19	2,121	16	C:68.0%[S:64.9%,D:3.1%],F:14.0%,M:18.0%,n:672
+Amynthas aspergillum	Clitellata	759	53.12	200	43	C:68.8%[S:63.7%,D:5.1%],F:20.4%,M:10.9%,n:672
+Amynthas corticis	Clitellata	1285	54.78	1,042	42	C:65.6%[S:40.5%,D:25.1%],F:20.1%,M:14.3%,n:672
+Aporrectodea caliginosa	Clitellata	1092	55.74	2,769	16	C:80.5%[S:77.2%,D:3.3%],F:11.2%,M:8.3%,n:672
+Bimastos eiseni	Clitellata	661	41.68	130	17	C:83.0%[S:80.7%,D:2.4%],F:10.4%,M:6.5%,n:672
+Bimastos rubidus	Clitellata	813	47.85	415	17	C:83.2%[S:80.1%,D:3.1%],F:10.9%,M:6.0%,n:672
+Branchellion lobata	Clitellata	174	38.07	85	17	C:29.0%[S:29.0%,D:0.0%],F:22.3%,M:48.7%,n:672
+Carpetania matritensis	Clitellata	588	41.2	17	17	C:73.2%[S:71.6%,D:1.6%],F:14.0%,M:12.8%,n:672
+Eisenia andrei	Clitellata	1315	59.49	3,633	11	C:73.8%[S:69.9%,D:3.9%],F:14.4%,M:11.8%,n:672
+Erpobdella octoculata	Clitellata	386	57.14	102	10	C:76.6%[S:73.2%,D:3.4%],F:10.4%,M:12.9%,n:672
+Helobdella europaea	Clitellata	244	41.63	30	18	C:54.0%[S:53.4%,D:0.6%],F:19.6%,M:26.3%,n:672
+Hirudinaria manillensis	Clitellata	149	22.2	23	13	C:80.2%[S:75.4%,D:4.8%],F:11.2%,M:8.6%,n:672
+Hirudo nipponia	Clitellata	183	31.67	25	11	C:76.9%[S:71.9%,D:5.1%],F:12.4%,M:10.7%,n:672
+Hirudo tianjinensis	Clitellata	188	33.19	30	11	C:78.0%[S:72.8%,D:5.2%],F:11.8%,M:10.3%,n:672
+Hirudo verbana	Clitellata	178	29.65	28	14	C:78.7%[S:74.0%,D:4.8%],F:11.8%,M:9.5%,n:672
+Lumbriculus variegatus	Clitellata	1153	NA	85	17	C:74.0%[S:68.6%,D:5.4%],F:16.5%,M:9.5%,n:672
+Lumbricus rubellus	Clitellata	788	48.44	381	18	C:87.1%[S:83.6%,D:3.4%],F:8.3%,M:4.6%,n:672
+Lumbricus terrestris	Clitellata	1057	54.52	362	18	C:85.3%[S:82.0%,D:3.3%],F:10.1%,M:4.6%,n:672
+Metaphire vulgaris	Clitellata	729	50.23	280	41	C:64.9%[S:60.9%,D:4.0%],F:22.8%,M:12.4%,n:672
+Norana najaformis	Clitellata	608	44.35	17	17	C:79.3%[S:76.9%,D:2.4%],F:13.5%,M:7.1%,n:672
+Piscicola geometra	Clitellata	171	38.75	70	17	C:36.2%[S:36.2%,D:0.0%],F:23.1%,M:40.8%,n:672
+Placobdella costata	Clitellata	488	67.23	29	18	C:36.8%[S:36.3%,D:0.4%],F:27.4%,M:35.9%,n:672
+Pterobdella sp. o SKG-2022	Clitellata	144	24.65	355	8	C:34.8%[S:34.5%,D:0.3%],F:25.6%,M:39.6%,n:672
+Sinospelaeobdella cavatuses	Clitellata	150	33.42	44	9	C:82.4%[S:77.2%,D:5.2%],F:9.5%,M:8.0%,n:672
+Whitmania acranulata	Clitellata	182	31.09	18	11	C:80.8%[S:75.9%,D:4.9%],F:10.9%,M:8.3%,n:672
+Whitmania laevis	Clitellata	174	29.75	18	11	C:80.1%[S:75.1%,D:4.9%],F:10.6%,M:9.4%,n:672
+Whitmania pigra	Clitellata	169	28.66	22	11	C:81.1%[S:76.5%,D:4.6%],F:10.6%,M:8.3%,n:672
+Acholoe squamosa	Errantia: Phyllodocida	1204	51.89	14	14	C:83.2%[S:82.1%,D:1.0%],F:5.8%,M:11.0%,n:672
+Alentia gelatinosa	Errantia: Phyllodocida	1238	46.43	193	15	C:94.2%[S:93.5%,D:0.7%],F:4.2%,M:1.6%,n:672
+Alitta virens	Errantia: Phyllodocida	671	40.6	25	14	C:96.6%[S:96.0%,D:0.6%],F:1.9%,M:1.5%,n:672
+Amphiduros pacificus	Errantia: Phyllodocida	694	33.76	33	13	C:95.2%[S:94.0%,D:1.2%],F:3.4%,M:1.3%,n:672
+Branchipolynoe longqiensis	Errantia: Phyllodocida	1861	66.28	4,255	18	C:83.8%[S:83.6%,D:0.1%],F:9.7%,M:6.5%,n:672
+Branchipolynoe sp. SIO_BIC_A11809	Errantia: Phyllodocida	2423	72.38	10,214	18	C:75.0%[S:73.5%,D:1.5%],F:14.3%,M:10.7%,n:672
+Eulalia xanthomucosa	Errantia: Phyllodocida	2340	60.48	1,730	18	C:91.2%[S:89.7%,D:1.5%],F:6.8%,M:1.9%,n:672
+Euthalenessa oculata	Errantia: Phyllodocida	1207	43.1	285	12	C:91.1%[S:90.3%,D:0.7%],F:5.4%,M:3.6%,n:672
+Fimbriosthenelais zetlandica	Errantia: Phyllodocida	447	28.05	79	11	C:95.1%[S:94.3%,D:0.7%],F:2.5%,M:2.4%,n:672
+Gastrolepidia clavigera	Errantia: Phyllodocida	1250	56.07	72	12	C:86.5%[S:85.7%,D:0.7%],F:10.3%,M:3.3%,n:672
+Gesiella jameensis	Errantia: Phyllodocida	8590	71.67	1,810	9	C:55.8%[S:53.9%,D:1.9%],F:32.4%,M:11.8%,n:672
+Glycera fallax	Errantia: Phyllodocida	4171	61.42	932	19	C:90.8%[S:89.7%,D:1.0%],F:7.4%,M:1.8%,n:672
+Glycera tridactyla	Errantia: Phyllodocida	2038	54.79	207	19	C:92.0%[S:90.3%,D:1.6%],F:5.7%,M:2.4%,n:672
+Halosydna brevisetosa	Errantia: Phyllodocida	1168	43.42	718	18	C:94.8%[S:93.9%,D:0.9%],F:3.6%,M:1.6%,n:672
+Haplosyllis sp. GHC0000112	Errantia: Phyllodocida	2631	81.52	35	8	C:57.1%[S:56.2%,D:0.9%],F:21.7%,M:21.1%,n:672
+Harmothoe areolata	Errantia: Phyllodocida	1664	50.33	279	18	C:94.0%[S:92.9%,D:1.2%],F:4.3%,M:1.6%,n:672
+Harmothoe impar	Errantia: Phyllodocida	1512	45.45	862	18	C:94.5%[S:89.4%,D:5.1%],F:3.6%,M:1.9%,n:672
+Harmothoe sp. A-3ZBEU0YED	Errantia: Phyllodocida	2358	58.48	256	18	C:91.7%[S:90.5%,D:1.2%],F:6.0%,M:2.4%,n:672
+Iphione sp. A-MEVVRFRX5	Errantia: Phyllodocida	1179	39.25	89	11	C:89.0%[S:87.9%,D:1.0%],F:7.0%,M:4.0%,n:672
+Laetmonice hystrix	Errantia: Phyllodocida	627	35.08	35	18	C:92.1%[S:91.8%,D:0.3%],F:5.4%,M:2.5%,n:672
+Lepidonotus clava	Errantia: Phyllodocida	1010	38.55	401	18	C:93.0%[S:92.6%,D:0.4%],F:5.4%,M:1.6%,n:672
+Phyllodoce laminosa	Errantia: Phyllodocida	2493	38.47	723	19	C:91.8%[S:90.6%,D:1.2%],F:6.4%,M:1.8%,n:672
+Phyllodoce medipapillata	Errantia: Phyllodocida	3122	45.89	14	12	C:69.9%[S:69.0%,D:0.9%],F:6.2%,M:23.8%,n:672
+Sigalion mathildae	Errantia: Phyllodocida	1076	36.93	416	12	C:92.0%[S:90.2%,D:1.8%],F:5.7%,M:2.4%,n:672
+Sthenelais limicola	Errantia: Phyllodocida	1131	43.15	202	9	C:91.5%[S:90.6%,D:0.9%],F:5.8%,M:2.7%,n:672
+Leodice harassii	Errantia:Eunicidae	2313	57.73	59	12	C:91.8%[S:91.7%,D:0.1%],F:5.7%,M:2.5%,n:672
+Paucibranchia bellii	Errantia:Eunicidae	3834	49.99	394	17	C:85.9%[S:83.2%,D:2.7%],F:8.6%,M:5.5%,n:672
+Magelona johnstoni	Magelonidae	882	46.24	1,251	18	C:92.7%[S:87.6%,D:5.1%],F:4.3%,M:3.0%,n:672
+Trochonerilla sp. QMOUL0000090	Nerillidae	103	21.58	81	6	C:67.9%[S:67.0%,D:0.9%],F:16.4%,M:15.8%,n:672
+Owenia fusiformis	Oweniidae	500	46.94	819	12	C:90.9%[S:90.8%,D:0.1%],F:6.5%,M:2.5%,n:672
+Escarpia spicata	Siboglinidae	1062	60.01	1,380	14	C:93.8%[S:92.6%,D:1.2%],F:4.9%,M:1.3%,n:672
+Lamellibrachia barhami	Siboglinidae	757	49.06	4,573	15	C:92.3%[S:90.9%,D:1.3%],F:4.0%,M:3.7%,n:672
+Lamellibrachia columna	Siboglinidae	880	52.18	43	15	C:93.9%[S:92.7%,D:1.2%],F:4.9%,M:1.2%,n:672
+Oasisia sp. SBJ-2009	Siboglinidae	764	47.27	47	14	C:95.5%[S:93.5%,D:2.1%],F:3.1%,M:1.3%,n:672
+Osedax fenrisi	Siboglinidae	699	62.33	390	8	C:29.6%[S:29.6%,D:0.0%],F:35.7%,M:34.7%,n:672
+Osedax frankpressi	Siboglinidae	265	30.33	753	7	C:22.9%[S:22.8%,D:0.1%],F:32.4%,M:44.6%,n:672
+Paraescarpia echinospica	Siboglinidae	1102	58.31	6,463	14	C:91.5%[S:88.5%,D:3.0%],F:6.7%,M:1.8%,n:672
+Sclerolinum annulatum	Siboglinidae	1213	65.53	7,090	13	C:82.4%[S:79.9%,D:2.5%],F:13.1%,M:4.5%,n:672
+Sclerolinum brattstromi	Siboglinidae	866	61.04	31	14	C:86.8%[S:86.2%,D:0.6%],F:10.4%,M:2.8%,n:672
+Siboglinum fiordicum	Siboglinidae	1116	73.93	5,418	10	C:31.2%[S:31.0%,D:0.3%],F:28.4%,M:40.3%,n:672
+Sipunculus nudus	Sipuncula	1427	46.75	155	17	C:92.0%[S:91.7%,D:0.3%],F:6.2%,M:1.8%,n:672
+Themiste lageniformis	Sipuncula	814	54.25	84	10	C:86.9%[S:84.1%,D:2.8%],F:6.1%,M:7.0%,n:672
+Bispira polyomma	Spiosabelliformia	1035	56.83	75	14	C:86.3%[S:84.7%,D:1.6%],F:10.4%,M:3.3%,n:672
+Branchiomma bombyx	Spiosabelliformia	1268	59.08	267	14	C:89.6%[S:88.8%,D:0.7%],F:6.7%,M:3.7%,n:672
+Galeolaria caespitosa	Spiosabelliformia	818	48.16	582	11	C:85.9%[S:85.0%,D:0.9%],F:10.0%,M:4.2%,n:672
+Lindaspio polybranchiata	Spiosabelliformia	1379	NA	446	18	C:85.1%[S:83.5%,D:1.6%],F:8.3%,M:6.5%,n:672
+Marifugia cavatica	Spiosabelliformia	1322	65.5	582	12	C:83.2%[S:78.0%,D:5.2%],F:11.9%,M:4.9%,n:672
+Perkinsiana rubra	Spiosabelliformia	1488	60.61	86	13	C:83.5%[S:82.6%,D:0.9%],F:8.9%,M:7.6%,n:672
+Protula sp. h YS-2021	Spiosabelliformia	864	50.22	221	11	C:79.0%[S:77.7%,D:1.3%],F:13.2%,M:7.7%,n:672
+Sabella spallanzanii	Spiosabelliformia	1374	62.69	37	14	C:82.6%[S:82.1%,D:0.4%],F:13.4%,M:4.0%,n:672
+Sabellastarte sp. h YS-2021	Spiosabelliformia	1786	63.11	724	14	C:75.4%[S:74.1%,D:1.3%],F:16.2%,M:8.3%,n:672
+Serpula vermicularis	Spiosabelliformia	981	50.13	1,030	14	C:83.5%[S:81.4%,D:2.1%],F:11.3%,M:5.2%,n:672
+Streblospio benedicti	Spiosabelliformia	701	40.22	6,112	11	C:78.3%[S:77.2%,D:1.0%],F:11.2%,M:10.6%,n:672
+Alvinella pompejana	Terebellida	367	22.69	1,316	16	C:94.6%[S:93.5%,D:1.2%],F:4.2%,M:1.2%,n:672
+Arenicola marina	Terebellida	869	29.76	1,443	18	C:92.6%[S:91.8%,D:0.7%],F:5.5%,M:1.9%,n:672
+Terebella lapidaria	Terebellida	765	46.03	577	16	C:90.0%[S:89.0%,D:1.0%],F:6.0%,M:4.0%,n:672
+Eupolymnia gili	Terebellida	1248	49.89	753	17	C:92.9%[S:91.8%,D:1.0%],F:4.5%,M:2.7%,n:672
+Melinna palmata	Terebellida	2296	62.75	613	16	C:70.8%[S:68.0%,D:2.8%],F:15.8%,M:13.4%,n:672

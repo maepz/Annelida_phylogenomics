@@ -1,0 +1,45 @@
+ID	clade_name	clade_A144	clade_A144_higher_level	species_name_clean	color	prune	prune_name
+Chloeia_pinnata	Out:Amphinomida	Amphinomida	Early-branching Annelida	Chloeia pinnata	#8A2FE4	1	Amphinomida
+Eurythoe_complanata	Out:Amphinomida	Amphinomida	Early-branching Annelida	Eurythoe complanata	#8A2FE4	0	
+Hermodice_carunculata	Out:Amphinomida	Amphinomida	Early-branching Annelida	Hermodice carunculata	#8A2FE4	0	
+Paramphinome_jeffreysii	Out:Amphinomida	Amphinomida	Early-branching Annelida	Paramphinome jeffreysii	#8A2FE4	0	
+Pherecardia_striata	Out:Amphinomida	Amphinomida	Early-branching Annelida	Pherecardia striata	#8A2FE4	0	
+Apistobranchus_tullbergi	Out:Apistobranchidae	Apistobranchidae	Early-branching Annelida	Apistobranchus tullbergi	#8A2FE4	1	Apistobranchidae
+Capitella_teleta	Capitellidae	Capitellida	Pleistoannelida	Capitella teleta	#CAB560	1	Sedentaria
+Chaetoderma_shenloong	OutA:Mollusca	Mollusca	Outgroup	Chaetoderma shenloong	#000000	0	
+Chaetopterus_dewysee	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	Chaetopterus dewysee	#8A2FE4	1	Chaetopteridae
+Chaetopterus_sp_SL-2014	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	Chaetopterus sp. SL-2014	#8A2FE4	0	
+Chaetopterus_variopedatus	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	Chaetopterus variopedatus	#8A2FE4	0	
+Mesochaetopterus_rogeri	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	Mesochaetopterus rogeri	#8A2FE4	0	
+Mesochaetopterus_taylori	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	Mesochaetopterus taylori	#8A2FE4	0	
+Phyllochaetopterus_prolifica	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	Phyllochaetopterus prolifica	#8A2FE4	0	
+Spiochaetopterus_sp_AW-2014	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	Spiochaetopterus sp. AW-2014	#8A2FE4	0	
+Lepidonotus_clava	Errantia:Polynoidae	Errantia	Pleistoannelida	Lepidonotus clava	#544CC4	1	Errantia	
+Pharyngocirrus_tridentiger	Errantia:Saccocirridae	Errantia	Pleistoannelida	Pharyngocirrus tridentiger	#544CC4	0	
+Lineus_longissimus	OutA:Nemertea	Nemertea	Outgroup	Lineus longissimus	#000000	1	Nemertea
+Tubulanus_polymorphus	OutA:Nemertea	Nemertea	Outgroup	Tubulanus polymorphus	#000000	0	
+Phoronis_australis	OutA:Phoronida	Phoronida	Outgroup	Phoronis australis	#000000	1	Phoronida
+Magelona_berkeleyi	Out:Magelonidae	Magelonidae	Early-branching Annelida	Magelona berkeleyi	#8A2FE4	1	Magelonidae
+Magelona_johnstoni	Out:Magelonidae	Magelonidae	Early-branching Annelida	Magelona johnstoni	#8A2FE4	0	
+Magelona_mirabilis	Out:Magelonidae	Magelonidae	Early-branching Annelida	Magelona mirabilis	#8A2FE4	0	
+Magelona_pitelkai	Out:Magelonidae	Magelonidae	Early-branching Annelida	Magelona pitelkai	#8A2FE4	0	
+Galathowenia_oculata	Out:Oweniidae	Oweniidae	Early-branching Annelida	Galathowenia oculata	#8A2FE4	1	Oweniidae
+Myriochele_heeri	Out:Oweniidae	Oweniidae	Early-branching Annelida	Myriochele heeri	#8A2FE4	0	
+Owenia_fusiformis	Out:Oweniidae	Oweniidae	Early-branching Annelida	Owenia fusiformis	#8A2FE4	0	
+Owenia_sp_A5908	Out:Oweniidae	Oweniidae	Early-branching Annelida	Owenia sp. A5908	#8A2FE4	0	
+Antillesoma_antillarum	Out:Sipuncula	Sipuncula	Early-branching Annelida	Antillesoma antillarum	#8A2FE4	1	Sipuncula
+Phascolion_cryptum	Out:Sipuncula	Sipuncula	Early-branching Annelida	Phascolion cryptum	#8A2FE4	0	
+Phascolopsis_gouldii	Out:Sipuncula	Sipuncula	Early-branching Annelida	Phascolopsis gouldii	#8A2FE4	0	
+Phascolosoma_esculenta	Out:Sipuncula	Sipuncula	Early-branching Annelida	Phascolosoma esculenta	#8A2FE4	0	
+Phascolosoma_perlucens	Out:Sipuncula	Sipuncula	Early-branching Annelida	Phascolosoma perlucens	#8A2FE4	0	
+Sipunculus_nudus	Out:Sipuncula	Sipuncula	Early-branching Annelida	Sipunculus nudus	#8A2FE4	0	
+Themiste_lageniformis	Out:Sipuncula	Sipuncula	Early-branching Annelida	Themiste lageniformis	#8A2FE4	0	
+Themiste_pyroides	Out:Sipuncula	Sipuncula	Early-branching Annelida	Themiste pyroides	#8A2FE4	0	
+Lingula_anatina	OutA:Brachiopoda	Brachiopoda	Outgroup	Lingula anatina	#000000	1	Brachiopoda
+Mizuhopecten_yessoensis	OutA:Mollusca	Mollusca	Outgroup	Mizuhopecten yessoensis	#000000	1	Mollusca
+Psammodrilus_balanoglossoides	Out:Psammodrilidae	Psammodrilidae	Early-branching Annelida	Psammodrilus balanoglossoides	#8A2FE4	1	Psammodrilidae
+Aspidosiphon_parvulus	Out:Sipuncula	Sipuncula	Early-branching Annelida	Aspidosiphon parvulus	#8A2FE4	0	
+Golfingia_vulgaris	Out:Sipuncula	Sipuncula	Early-branching Annelida	Golfingia vulgaris	#8A2FE4	0	
+Lithacrosiphon_cristatus	Out:Sipuncula	Sipuncula	Early-branching Annelida	Lithacrosiphon cristatus	#8A2FE4	0	
+Nephasoma_flagriferum	Out:Sipuncula	Sipuncula	Early-branching Annelida	Nephasoma flagriferum	#8A2FE4	0	
+Bispira_polyomma	Spiosabelliformia	Spiosabelliformia	Pleistoannelida	Bispira polyomma	#61C978	0	

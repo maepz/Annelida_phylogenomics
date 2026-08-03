@@ -1,0 +1,13 @@
+Node	Age estimate (Mya)	Fossil Species/ Dated speciation	Epoch	Location/ Lagerstätten	Reference	PAML calibrations
+Annelida/Nemertea; stem Annelida	514.5 - 521	Pygocirrus butyricampum	Cambrian Stage 3	Sirius Passet, Peary Land, Greenland	Vinther et al. 2011	ST(5.17946, 0.07915, 8.15734, 1.80325)
+Annelida/Nemertea; stem Annelida	506.5 - 514.5	Guanshanchaeta felicia	Cambrian Stage 4	Guanshan Biota, Wulongqing Formation, China	Liu et al. 2015	
+Annelida/Nemertea; stem Annelida	505.3 - 509.7	Burgessochaeta setigera	Middle Cambrian (Wuliuan, Stage 4)	Burgess Shale, Canada	Parry et al. 2016	
+Annelida/Nemertea; stem Annelida	516.0 - 521.0	Phragmochaeta canicularis	Cambrian Stage 3 (Atdabanian)	Sirius Passet, Peary Land, Greenland	Conway Morris and Peel 2008	
+Annelida/Nemertea; stem Annelida	506 - 507.5	Shaihuludia shurikeni	Middle Cambrian (Wuliuan, Stage 4)	Spence Shale, northeastern Utah and southeastern Idaho, USA	Kimming et al. 2022	
+Sabellidae/Serpulidae	251.9 - 266.9	Glomerula (Sabellidae); Filograna (Serpulidae)	Wordian to Upper Permian	Sosio Valley, western Sicily, Italy	Sanfilippo et al. 2017	B(2.519, 5.60, 0.025)
+stem Magelonidae	514.5 - 521	Dannychaeta tucolus	Cambrian Stage 3	Canglangpu Formation, southwest of Guanshan reservoir, China	Chen et al. 2020	B(5.145, 5.60, 0.025)
+Thalassematidae/Capitellidae; crown Thallasematidae	458.2 - 469.4	Llwygarua suzannae	Darwillian (Middle Ordovincian)	Castle Bank, Wales, United Kingdom	Botting and Muir 2023	B(4.582, 5.60,  0.025)
+Hirudinea/Lumbriculida; crown Hirudinea	436.5 - 437.5	Macromyzon siluricus	Upper Silurian (Telychian)	Brandon Bridge Formation, Wisconsin, USA	de Carle et al. 2025	B(4.365, 5.60,  0.025)
+Ridgeia/Oasisia 	23 - 34	Farallon plate fragmentation	Oligocene	Farallon plate fragmentation	Tunnicliffe 1988	B(0.230,  0.340,  0.025)
+P. palmiformis/P. grasslei	23 - 34	Farallon plate fragmentation	Oligocene	Farallon plate fragmentation	Tunnicliffe 1988	B(0.230,  0.340,  0.025)
+Eunicida/Phyllodocida; stem Phyllodocida	509 - 514	Gaoloufangchaeta bifurcus	Cambrian Stage 4	Gaoloufang section, Wulongqing Formation, China	Yang et al. 2024	B(5.090, 5.60,  0.025)

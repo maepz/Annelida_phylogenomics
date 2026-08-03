@@ -1,0 +1,67 @@
+species_name_clean	clade_A144	clade_A144_higher_level	L38_synt_gene_count	L38_synt_tot_len	L42_synt_gene_count	L42_synt_tot_len	NP_synt_gene_count	NP_synt_tot_len
+Capitella teleta	Capitellida	Pleistoannelida	1956	894020	1957	896131	1889	683591
+Urechis unicinctus	Capitellida	Pleistoannelida	2071	1008906	2013	979137	NA	NA
+Arenicola marina	Terebellida	Pleistoannelida	2114	1179558	2116	1181794	NA	NA
+Terebella lapidaria	Terebellida	Pleistoannelida	2145	1217087	2150	1221079	NA	NA
+Eisenia andrei	Clitellata	Pleistoannelida	1576	819308	1585	820736	NA	NA
+Helobdella europaea	Clitellata	Pleistoannelida	1406	661487	1414	668524	NA	NA
+Pristina leidyi	Clitellata	Pleistoannelida	1663	892503	1664	892841	NA	NA
+Lamellibrachia barhami	Siboglinidae	Pleistoannelida	2005	1079588	2009	1085275	NA	NA
+Siboglinum fiordicum	Siboglinidae	Pleistoannelida	1480	737075	1482	739127	NA	NA
+Cirratulus cirratus	Cirratuliformia	Pleistoannelida	1896	880408	1897	881978	NA	NA
+Flabesymbios commensalis	Cirratuliformia	Pleistoannelida	2193	1228391	2198	1233393	NA	NA
+Bispira polyomma	Spiosabelliformia	Pleistoannelida	2057	1083264	2059	1085554	1824	675343
+Neosabellaria cementarium	Spiosabelliformia	Pleistoannelida	1895	855706	1896	857353	NA	NA
+Protula sp. h. YS-2021	Spiosabelliformia	Pleistoannelida	2127	1175129	2132	1178375	NA	NA
+Streblospio benedicti	Spiosabelliformia	Pleistoannelida	1894	971189	1900	976990	NA	NA
+Dimorphilus gyrociliatus	Other Sedentaria	Pleistoannelida	1867	906395	1869	908731	NA	NA
+Diurodrilus subterraneus	Other Sedentaria	Pleistoannelida	1456	502318	1457	504132	NA	NA
+Leitoscoloplos robustus	Other Sedentaria	Pleistoannelida	1886	814277	1887	814979	NA	NA
+Myzostoma seymourcollegiorum	Other Sedentaria	Pleistoannelida	1813	880643	1813	878847	NA	NA
+Parergodrilus heideri	Other Sedentaria	Pleistoannelida	1184	268942	1192	281047	NA	NA
+Spinther bonhorum	Other Sedentaria	Pleistoannelida	1561	588319	1562	589078	NA	NA
+Trochonerilla sp.	Other Sedentaria	Pleistoannelida	1445	732518	1455	738758	NA	NA
+Lepidonotus clava	Errantia	Pleistoannelida	2193	1184749	2201	1191284	1947	738735
+Paucibranchia bellii	Errantia	Pleistoannelida	1953	1062915	1955	1065228	NA	NA
+Pharyngocirrus tridentiger	Errantia	Pleistoannelida	1741	719422	1741	720024	1662	543193
+Platynereis dumerilii	Errantia	Pleistoannelida	1937	1080660	1939	1083541	NA	NA
+Antillesoma antillarum	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	1395	394035
+Aspidosiphon parvulus	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	640	92478
+Golfingia vulgaris	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	1907	705732
+Lithacrosiphon cristatus	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	1231	301543
+Nephasoma flagriferum	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	1412	430895
+Phascolion cryptum	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	626	84162
+Phascolopsis gouldii	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	1265	295768
+Phascolosoma esculenta	Sipuncula	Early-branching Annelida	1771	763027	1772	763492	1759	614100
+Phascolosoma perlucens	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	619	83557
+Sipunculus nudus	Sipuncula	Early-branching Annelida	2086	1059291	2087	1059907	1897	703910
+Themiste lageniformis	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	1794	675150
+Themiste pyroides	Sipuncula	Early-branching Annelida	NA	NA	NA	NA	1495	445614
+Chloeia pinnata	Amphinomida	Early-branching Annelida	NA	NA	NA	NA	1177	267482
+Eurythoe complanata	Amphinomida	Early-branching Annelida	NA	NA	NA	NA	46	6848
+Hermodice carunculata	Amphinomida	Early-branching Annelida	2092	1157048	2095	1158578	1891	729500
+Paramphinome jeffreysii	Amphinomida	Early-branching Annelida	1528	498326	1534	505785	1455	415712
+Pherecardia striata	Amphinomida	Early-branching Annelida	NA	NA	NA	NA	1436	410743
+Chaetopterus dewysee	Chaetopteridae	Early-branching Annelida	2127	1175640	2130	1181853	1926	744805
+Chaetopterus sp. SL-2014	Chaetopteridae	Early-branching Annelida	NA	NA	NA	NA	1519	465054
+Chaetopterus variopedatus	Chaetopteridae	Early-branching Annelida	1745	709916	1745	709726	1703	561248
+Mesochaetopterus rogeri	Chaetopteridae	Early-branching Annelida	NA	NA	NA	NA	1830	686647
+Mesochaetopterus taylori	Chaetopteridae	Early-branching Annelida	NA	NA	NA	NA	1527	485415
+Phyllochaetopterus prolifica	Chaetopteridae	Early-branching Annelida	NA	NA	NA	NA	1655	533906
+Spiochaetopterus sp. AW-2014	Chaetopteridae	Early-branching Annelida	NA	NA	NA	NA	1185	301707
+Apistobranchus tullbergi	Apistobranchidae	Early-branching Annelida	NA	NA	NA	NA	1239	296017
+Psammodrilus balanoglossoides	Psammodrilidae	Early-branching Annelida	NA	NA	NA	NA	1627	496874
+Magelona berkeleyi	Magelonidae	Early-branching Annelida	NA	NA	NA	NA	369	55260
+Magelona johnstoni	Magelonidae	Early-branching Annelida	2034	1095437	2039	1101489	1804	685793
+Magelona mirabilis	Magelonidae	Early-branching Annelida	1790	737658	1791	738436	1723	571971
+Magelona pitelkai	Magelonidae	Early-branching Annelida	NA	NA	NA	NA	1199	295037
+Galathowenia oculata	Oweniidae	Early-branching Annelida	1552	535896	1561	545243	1562	492669
+Myriochele heeri	Oweniidae	Early-branching Annelida	NA	NA	NA	NA	1115	286715
+Owenia fusiformis	Oweniidae	Early-branching Annelida	2151	1168675	2154	1170871	1953	760874
+Owenia sp. A5908	Oweniidae	Early-branching Annelida	NA	NA	NA	NA	1394	390779
+Lineus longissimus	Nemertea	Outgroup	2172	1222056	2175	1231095	1944	763066
+Tubulanus polymorphus	Nemertea	Outgroup	2133	1171483	2129	1165038	1911	732422
+Lingula anatina	Brachiopoda	Outgroup	NA	NA	2201	1224016	1982	762313
+Phoronis australis	Phoronida	Outgroup	NA	NA	1929	980800	1764	647048
+Chaetoderma shenloong	Mollusca	Outgroup	NA	NA	2113	1177581	1890	743550
+Mizuhopecten yessoensis	Mollusca	Outgroup	NA	NA	2026	1076595	1855	700453

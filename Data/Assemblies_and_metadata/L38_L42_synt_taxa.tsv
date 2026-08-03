@@ -1,0 +1,43 @@
+ID	species	clade_name	clade_A144	clade_A144_higher_level	hex	color	species_name_clean	prune	prune_name
+ARMA	Arenicola_marina	Arenicolidae	Terebellida	Pleistoannelida	93CA5C	#93CA5C	Arenicola marina	0	 
+BIPO	Bispira_polyomma	Sabellidae	Spiosabelliformia	Pleistoannelida	93CA5C	#61C978	Bispira polyomma	0	 
+CATE	Capitella_teleta	Capitellidae	Capitellida	Pleistoannelida	CAB560	#CAB560	Capitella teleta	1	Capitellida
+CHDE	Chaetopterus_dewysee	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	8A2FE4	#8A2FE4	Chaetopterus dewysee	1	Chaetopteridae
+CHSH	Chaetoderma_shenloong	OutA:Mollusca	Mollusca	Outgroup	0	#000000	Chaetoderma shenloong	1	Mollusca
+CHVA	Chaetopterus_variopedatus	Out:Chaetopteridae	Chaetopteridae	Early-branching Annelida	8A2FE4	#8A2FE4	Chaetopterus variopedatus	0	 
+CICI	Cirratulus_cirratus	Cirratuliformia	Cirratuliformia	Pleistoannelida	CB6765	#CB6765	Cirratulus cirratus	1	Cirratuliformia
+DIGY	Dimorphilus_gyrociliatus	Dinophilidae	Other Sedentaria	Pleistoannelida	66A1CC	#66A1CC	Dimorphilus gyrociliatus	1	Dinophilidae
+DISU	Diurodrilus_subterraneus	Diurodrilidae	Other Sedentaria	Pleistoannelida	66A1CC	#66A1CC	Diurodrilus subterraneus	1	Diurodrilidae
+EIAN	Eisenia_andrei	Clitellata	Clitellata	Pleistoannelida	66C9C9	#66C9C9	Eisenia andrei	1	Clitellata
+FLCO	Flabesymbios_commensalis	Cirratuliformia	Cirratuliformia	Pleistoannelida	CB6765	#CB6765	Flabesymbios commensalis	0	 
+GAOC	Galathowenia_oculata	Out:Oweniidae	Oweniidae	Early-branching Annelida	8A2FE4	#8A2FE4	Galathowenia oculata	1	Oweniidae
+HECA	Hermodice_carunculata	Out:Amphinomida	Amphinomida	Early-branching Annelida	8A2FE4	#8A2FE4	Hermodice carunculata	1	Amphinomida
+HEEU	Helobdella_europaea	Clitellata	Clitellata	Pleistoannelida	66C9C9	#66C9C9	Helobdella europaea	0	 
+LABA	Lamellibrachia_barhami	Siboglinidae:Vestimentifera	Siboglinidae	Pleistoannelida	CB62B4	#CB62B4	Lamellibrachia barhami	0	 
+LECL	Lepidonotus_clava	Errantia:Polynoidae	Errantia	Pleistoannelida	544CC4	#544CC4	Lepidonotus clava	0	 
+LERO	Leitoscoloplos_robustus	Orbiniidae	Other Sedentaria	Pleistoannelida	66A1CC	#66A1CC	Leitoscoloplos robustus	1	Orbiniidae
+LIAN	Lingula_anatina	OutA:Brachiopoda	Brachiopoda	Outgroup	0	#000000	Lingula anatina	1	Brachiopoda
+LILO	Lineus_longissimus	OutA:Nemertea	Nemertea	Outgroup	0	#000000	Lineus longissimus	1	Nemertea
+MAJO	Magelona_johnstoni	Out:Magelonidae	Magelonidae	Early-branching Annelida	8A2FE4	#8A2FE4	Magelona johnstoni	1	Magelonidae
+MAMI	Magelona_mirabilis	Out:Magelonidae	Magelonidae	Early-branching Annelida	8A2FE4	#8A2FE4	Magelona mirabilis	0	 
+MIYE	Mizuhopecten_yessoensis	OutA:Mollusca	Mollusca	Outgroup	0	#000000	Mizuhopecten yessoensis	0	 
+MYSE	Myzostoma_seymourcollegiorum	Errantia:Myzostomida	Other Sedentaria	Pleistoannelida	544CC4	#66A1CC	Myzostoma seymourcollegiorum	1	Myzostomatida
+NECE	Neosabellaria_cementarium	Sabellariidae	Spiosabelliformia	Pleistoannelida	93CA5C	#61C978	Neosabellaria cementarium	0	 
+OWFU	Owenia_fusiformis	Out:Oweniidae	Oweniidae	Early-branching Annelida	8A2FE4	#8A2FE4	Owenia fusiformis	0	 
+PABE	Paucibranchia_bellii	Errantia:Eunicidae	Errantia	Pleistoannelida	544CC4	#544CC4	Paucibranchia bellii	1	Errantia
+PAHE	Parergodrilus_heideri	Parergodrilidae	Other Sedentaria	Pleistoannelida	66A1CC	#66A1CC	Parergodrilus heideri	1	Parergodrilidae
+PAJE	Paramphinome_jeffreysii	Out:Amphinomida	Amphinomida	Early-branching Annelida	8A2FE4	#8A2FE4	Paramphinome jeffreysii	0	 
+PHAU	Phoronis_australis	OutA:Phoronida	Phoronida	Outgroup	0	#000000	Phoronis australis	1	Phoronida
+PHES	Phascolosoma_esculenta	Out:Sipuncula	Sipuncula	Early-branching Annelida	8A2FE4	#8A2FE4	Phascolosoma esculenta	1	Sipuncula
+PHTR	Pharyngocirrus_tridentiger	Errantia:Saccocirridae	Errantia	Pleistoannelida	544CC4	#544CC4	Pharyngocirrus tridentiger	0	 
+PLDU	Platynereis_dumerilii	Errantia:Nereididae	Errantia	Pleistoannelida	544CC4	#544CC4	Platynereis dumerilii	0	 
+PRLE	Pristina_leidyi	Clitellata	Clitellata	Pleistoannelida	66C9C9	#66C9C9	Pristina leidyi	0	 
+PRSP	Protula_sp_h_YS-2021	Serpulidae	Spiosabelliformia	Pleistoannelida	93CA5C	#61C978	Protula sp. h. YS-2021	0	 
+SIFI	Siboglinum_fiordicum	Siboglinidae:Frenulata	Siboglinidae	Pleistoannelida	CB62B4	#CB62B4	Siboglinum fiordicum	1	Siboglinidae
+SINU	Sipunculus_nudus	Out:Sipuncula	Sipuncula	Early-branching Annelida	8A2FE4	#8A2FE4	Sipunculus nudus	0	 
+SPSP	Spinther_sp_SA-2015	Spintheridae	Other Sedentaria	Pleistoannelida	66A1CC	#66A1CC	Spinther bonhorum	1	Spintheridae
+STBE	Streblospio_benedicti	Spionidae	Spiosabelliformia	Pleistoannelida	61C978	#61C978	Streblospio benedicti	1	Spiosabelliformia
+TELA	Terebella_lapidaria	Terebelliformia	Terebellida	Pleistoannelida	93CA5C	#93CA5C	Terebella lapidaria	1	Terebellida
+TRSP	Trochonerilla_sp_QMOUL0000090	Spintheridae	Other Sedentaria	Pleistoannelida	66A1CC	#66A1CC	Trochonerilla sp.	0	 
+TUPO	Tubulanus_polymorphus	OutA:Nemertea	Nemertea	Outgroup	0	#000000	Tubulanus polymorphus	0	 
+URUN	Urechis_unicinctus	Echiura	Capitellida	Pleistoannelida	CAB560	#CAB560	Urechis unicinctus	0	 

@@ -1,0 +1,68 @@
+Species	Species_name_clean	Clade	Type	Assembly_Accession	Assembly_Name	WGS_project_accession	Chromosome_number	gene_models	Ref	protein_number	C	S	D	F	M
+Antillesoma_antillarum	Antillesoma antillarum	Sipuncula	transcriptome							25549	0.68	0.671	0.009	0.195	0.125
+Apistobranchus_tullbergi	Apistobranchus tullbergi	Apistobranchidae	transcriptome							21723	0.495	0.493	0.002	0.209	0.296
+Arenicola_marina	Arenicola marina	Terebellida	genome	wuAreMari1.1	GCA_964019135.1	CAXHSH01	18	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	25675	0.909	0.901	0.008	0.027	0.064
+Aspidosiphon_parvulus	Aspidosiphon parvulus	Sipuncula	transcriptome							14082	0.069	0.068	0.001	0.169	0.762
+Bispira_polyomma	Bispira polyomma	Spiosabelliformia	genome	wsBisPoly1.1	GCA_965649765.1	CBFGMH01	14	this paper (ANNEVO)	WELLCOME SANGER INSTITUTE	27930	0.906	0.884	0.022	0.055	0.039
+Capitella_teleta	Capitella teleta	Capitellida	genome				10	published	Davies et al. 2026	26502	0.968	0.928	0.04	0.016	0.016
+Capitella_teleta	Capitella teleta	Capitellida	genome	Capca1	GCA_000328365.1	AMQN01		published	Simakov et al. 2013	31977	0.948	0.905	0.043	0.027	0.025
+Chaetoderma_shenloong	Chaetoderma shenloong	Mollusca	genome				17	published	Li et al. 2025	23126	0.976	0.969	0.007	0.005	0.019
+Chaetopterus_dewysee	Chaetopterus dewysee	Chaetopteridae	genome	wdChaDewy1.1	GCA_977014815.1	CDRNLV01		this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	21993	0.978	0.93	0.048	0.008	0.014
+Chaetopterus_sp_SL-2014	Chaetopterus sp. SL-2014	Chaetopteridae	transcriptome							22817	0.685	0.647	0.038	0.191	0.124
+Chaetopterus_variopedatus	Chaetopterus variopedatus	Chaetopteridae	transcriptome							21659	0.823	0.814	0.009	0.108	0.069
+Chloeia_pinnata	Chloeia pinnata	Amphinomida	transcriptome							23739	0.482	0.454	0.028	0.202	0.316
+Cirratulus_cirratus	Cirratulus cirratus	Cirratuliformia	transcriptome							34900	0.913	0.889	0.024	0.049	0.038
+Dimorphilus_gyrociliatus	Dimorphilus gyrociliatus	Other Sedentaria	genome	Dgyrociliatus_assembly	GCA_904063045.1	CAJFCJ01		published	Martín-Durán et al. 2020	14090	0.919	0.895	0.024	0.013	0.068
+Diurodrilus_subterraneus	Diurodrilus subterraneus	Other Sedentaria	transcriptome							30179	0.735	0.704	0.031	0.115	0.15
+Eisenia_andrei	Eisenia andrei	Clitellata	genome				11	published	Shao et al. 2020	31817	0.914	0.835	0.079	0.017	0.069
+Eurythoe_complanata	Eurythoe complanata	Amphinomida	transcriptome							373	0.018	0.018	0	0.003	0.979
+Flabesymbios_commensalis	Flabesymbios commensalis	Cirratuliformia	genome	wfFlaComm2.1	GCA_964017125.1	CAXHKU01	17	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	22631	0.963	0.935	0.028	0.012	0.025
+Galathowenia_oculata	Galathowenia oculata	Oweniidae	transcriptome							29172	0.811	0.79	0.021	0.109	0.08
+Golfingia_vulgaris	Golfingia vulgaris	Sipuncula	transcriptome							30945	0.977	0.955	0.022	0.012	0.011
+Helobdella_europaea	Helobdella europaea	Clitellata	genome	wcHelEuro2.1	GCA_974392615.1	CDCVGP01	18	this paper (ANNEVO)	WELLCOME SANGER INSTITUTE	15440	0.647	0.634	0.013	0.102	0.251
+Hermodice_carunculata	Hermodice carunculata	Amphinomida	genome	waHerCaru1.1	GCA_964020975.1	CAXHWN01	19	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	20916	0.93	0.923	0.007	0.019	0.051
+Lamellibrachia_barhami	Lamellibrachia barhami	Siboglinidae	genome	wsLamBarh1.1	GCA_965112235.1	CBCOQH01	15	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	30947	0.891	0.877	0.014	0.023	0.086
+Leitoscoloplos_robustus	Leitoscoloplos robustus	Other Sedentaria	transcriptome							33794	0.897	0.891	0.006	0.061	0.042
+Lepidonotus_clava	Lepidonotus clava	Errantia	genome					published	He et al. 2023	23457	0.963	0.958	0.005	0.018	0.019
+Lineus_longissimus	Lineus longissimus	Nemertea	genome	tnLinLong1.2	GCA_910592395.2		19	published	WELLCOME SANGER INSTITUTE	17950	0.982	0.977	0.005	0.004	0.014
+Lingula_anatina	Lingula anatina	Brachiopoda	genome	LinAna3.0	GCA_051362555.1		10	this paper (EvidenceModeler)	Lewin et al. 2026	18764	0.987	0.975	0.012	0.005	0.008
+Lithacrosiphon_cristatus	Lithacrosiphon cristatus	Sipuncula	transcriptome							23460	0.509	0.503	0.006	0.192	0.299
+Magelona_berkeleyi	Magelona berkeleyi	Magelonidae	transcriptome							6281	0.062	0.046	0.016	0.092	0.846
+Magelona_johnstoni	Magelona johnstoni	Magelonidae	genome	wdMagJohn1.1	GCA_963942565.1	CAWWDR01	18	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	22998	0.935	0.89	0.045	0.014	0.051
+Magelona_mirabilis	Magelona mirabilis	Magelonidae	transcriptome							26209	0.886	0.855	0.031	0.066	0.048
+Magelona_pitelkai	Magelona pitelkai	Magelonidae	transcriptome							20112	0.453	0.45	0.003	0.289	0.258
+Mesochaetopterus_rogeri	Mesochaetopterus rogeri	Chaetopteridae	transcriptome							27047	0.986	0.966	0.02	0.004	0.01
+Mesochaetopterus_taylori	Mesochaetopterus taylori	Chaetopteridae	transcriptome							20145	0.774	0.764	0.01	0.099	0.127
+Mizuhopecten_yessoensis	Mizuhopecten yessoensis	Mollusca	genome	ASM211388v2	GCA_002113885.2		19	published	Wang et al. 2017	28341	0.944	0.904	0.04	0.021	0.035
+Myriochele_heeri	Myriochele heeri	Sipuncula	transcriptome							25634	0.592	0.532	0.06	0.188	0.22
+Myzostoma_seymourcollegiorum	Myzostoma seymourcollegiorum	Other Sedentaria	transcriptome							20476	0.892	0.876	0.016	0.029	0.079
+Neosabellaria_cementarium	Neosabellaria cementarium	Spiosabelliformia	transcriptome							45503	0.924	0.909	0.015	0.053	0.023
+Nephasoma_flagriferum	Nephasoma flagriferum	Sipuncula	transcriptome							28882	0.735	0.708	0.027	0.121	0.144
+Owenia_fusiformis	Owenia fusiformis	Oweniidae	genome	Owenia_chromosome	GCA_903813345.2	CAIIXF02	12	published	Martín-Zamora et al. 2023	27025	0.962	0.955	0.007	0.015	0.023
+Owenia_sp_A5908	Owenia sp. A5908	Oweniidae	transcriptome							25348	0.64	0.633	0.007	0.211	0.149
+Paramphinome_jeffreysii	Paramphinome jeffreysii	Amphinomida	transcriptome							26340	0.618	0.592	0.026	0.179	0.203
+Parergodrilus_heideri	Parergodrilus heideri	Other Sedentaria	transcriptome							15914	0.517	0.466	0.051	0.203	0.28
+Paucibranchia_bellii	Paucibranchia bellii	Errantia	genome	wjPauBell1.1	GCA_977009275.1	CDRMXK01	17	this paper (ANNEVO)	WELLCOME SANGER INSTITUTE	54097	0.882	0.848	0.034	0.057	0.061
+Pharyngocirrus_tridentiger	Pharyngocirrus tridentiger	Errantia	transcriptome							29462	0.838	0.834	0.004	0.091	0.071
+Phascolion_cryptum	Phascolion cryptum	Sipuncula	transcriptome							15376	0.084	0.082	0.002	0.178	0.738
+Phascolopsis_gouldii	Phascolopsis gouldii	Sipuncula	transcriptome							38994	0.481	0.474	0.007	0.353	0.166
+Phascolosoma_esculenta	Phascolosoma esculenta	Sipuncula	transcriptome							37535	0.937	0.876	0.061	0.038	0.025
+Phascolosoma_perlucens	Phascolosoma perlucens	Sipuncula	transcriptome							19161	0.1	0.092	0.008	0.257	0.643
+Pherecardia_striata	Pherecardia striata	Amphinomida	transcriptome							23906	0.637	0.632	0.005	0.168	0.195
+Phoronis_australis	Phoronis australis	Phoronida	genome	PhoAus2.0	GCA_055505105.1	JBPSMY01	12	published	Lewin et al. 2025	24052	0.95	0.905	0.045	0.016	0.034
+Phyllochaetopterus_prolifica	Phyllochaetopterus prolifica	Chaetopteridae	transcriptome							31222	0.84	0.831	0.009	0.092	0.068
+Platynereis_dumerilii	Platynereis dumerilii	Errantia	genome	ASM4338121v1	GCA_043381215.1	JBGMUU01		published	Mutemi et al. 2025	28232	0.888	0.862	0.026	0.009	0.103
+Pristina_leidyi	Pristina leidyi	Clitellata	transcriptome							19942	0.876	0.85	0.026	0.005	0.119
+Protula_sp_h_YS-2021	Protula sp. h YS-2021	Spiosabelliformia	genome	wsProSpea1.1	GCA_949752745.1	CATKHT01	11	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	27937	0.926	0.92	0.006	0.032	0.042
+Psammodrilus_balanoglossoides	Psammodrilus balanoglossoides	Psammodrilidae	transcriptome							20438	0.782	0.77	0.012	0.123	0.095
+Siboglinum_fiordicum	Siboglinum fiordicum	Siboglinidae	genome	wsSibFior1.1	GCA_965260885.1	CBDHBV01	10	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	10701	0.602	0.59	0.012	0.065	0.333
+Sipunculus_nudus	Sipunculus nudus	Sipuncula	genome	ASM2687459v2	GCA_026874595.2	JAPPUL01	17	published	Zakas et al. 2022	28749	0.938	0.932	0.006	0.029	0.033
+Spinther_sp_SA-2015	Spinther sp SA-2015	Other Sedentaria	transcriptome							25143	0.827	0.821	0.006	0.112	0.061
+Spiochaetopterus_sp_AW-2014	Spiochaetopterus sp. AW-2014	Chaetopteridae	transcriptome							15973	0.502	0.495	0.007	0.172	0.326
+Streblospio_benedicti	Streblospio benedicti	Spiosabelliformia	genome	ASM1909598v1	GCA_019095985.1	JAGTTF01	12	published	Zheng et al. 2023	23232	0.817	0.798	0.019	0.051	0.132
+Terebella_lapidaria	Terebella lapidaria	Terebellida	genome	wtTerLapi1.1	GCA_949152475.1	CASCJZ01	16	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	19167	0.929	0.921	0.008	0.014	0.057
+Themiste_lageniformis	Themiste lageniformis	Sipuncula	genome	wgTheLage1.1	GCA_964194385.1	CAXMMB01	10	this paper (ANNEVO)	WELLCOME SANGER INSTITUTE	26798	0.864	0.846	0.018	0.047	0.089
+Themiste_pyroides	Themiste pyroides	Sipuncula	transcriptome							19381	0.715	0.708	0.007	0.125	0.16
+Trochonerilla_sp_QMOUL0000090	Trochonerilla sp. QMOUL0000090	Other Sedentaria	genome	wuTroSpea1.1	GCA_978898905.1	CECCTK01	6	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	9710	0.59	0.582	0.008	0.075	0.335
+Tubulanus_polymorphus	Tubulanus polymorphus	Nemertea	genome	tnTubPoly1.2	GCA_964204645.2		19	this paper (EvidenceModeler)	WELLCOME SANGER INSTITUTE	18804	0.983	0.976	0.007	0.007	0.01
+Urechis_unicinctus	Urechis unicinctus	Capitellida	genome	Mju_Uu_1.0	GCA_034190875.2	JAXDRA01	17	published	Cheng et al. 2024	21520	0.914	0.901	0.013	0.047	0.039

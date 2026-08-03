@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# TreeViewer session files
+*.tbi
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.Rproj.user/
+
+# LaTeX intermediates generated when rendering R Markdown
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+Scripts/Analysis_commands.tex
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Clearly discarded working trees
+wrong_topo/
