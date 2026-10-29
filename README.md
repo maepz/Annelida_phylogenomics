@@ -1,5 +1,7 @@
 # Clarifying the annelid tree of life amid deep phylogenomic conflict
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23755892.svg)](https://doi.org/10.5281/zenodo.23755892)
+
 This repository accompanies the manuscript **“Clarifying the annelid tree of
 life amid deep phylogenomic conflict.”** It contains the principal sequence
 datasets, metadata, matrix definitions, gene trees, species-tree results, and
@@ -131,5 +133,10 @@ coverage, node matching, and metric availability are documented in
 
 ## Citation
 
-Please cite the associated article when using these data. The complete journal
-citation and archival DOI will be added here after publication.
+Please cite this archive when using these data, and also cite the associated article when available.
+
+Perez, M., Li, Y., Hui, F., Li, Y.-X., Li, Y., Martín-Durán, J. M., Rouse, G. W., Qian, P.-Y., & Qiu, J.-W. (2026). *Clarifying the annelid tree of life amid deep phylogenomic conflict: data and analysis archive* (Version 1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23755892
+
+This DOI identifies version 1.0.0. The [DOI for all versions](https://doi.org/10.5281/zenodo.23755891) always resolves to the latest archived release.
+
+Original code is licensed under MIT; original data under CC BY 4.0. Third-party material retains its original terms. See [LICENSE.md](LICENSE.md).
