@@ -1,0 +1,60 @@
+{
+  "title": "Clarifying the annelid tree of life amid deep phylogenomic conflict: data and analysis archive",
+  "upload_type": "dataset",
+  "description": "<p>Data and analysis code accompanying the manuscript <em>Clarifying the annelid tree of life amid deep phylogenomic conflict</em>.</p><p>The archive includes predicted proteomes and assembly metadata; phylogenomic matrix definitions and selected concatenated alignments; gene and species trees; branch-support summaries; downstream analysis results; and analysis-command records and custom scripts. It is a documented data-and-methods archive. Server-specific paths and computing environments mean that the recorded commands are not a turnkey reproducibility workflow.</p><p>Licensing: original code is licensed under the MIT License; original research data are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Third-party data and software retain their original license terms. See LICENSE.md, LICENSE-CODE, and LICENSE-DATA.md in the repository.</p>",
+  "creators": [
+    {
+      "name": "Perez, Maeva",
+      "affiliation": "Hong Kong Baptist University"
+    },
+    {
+      "name": "Li, Yunlong",
+      "affiliation": "Hong Kong Baptist University"
+    },
+    {
+      "name": "Hui, Fan",
+      "affiliation": "Hong Kong Baptist University"
+    },
+    {
+      "name": "Li, Yi-Xuan",
+      "affiliation": "Hong Kong Baptist University"
+    },
+    {
+      "name": "Li, Yuanning",
+      "affiliation": "Shandong University"
+    },
+    {
+      "name": "Martín-Durán, José M.",
+      "affiliation": "Queen Mary University of London"
+    },
+    {
+      "name": "Rouse, Greg W.",
+      "affiliation": "Scripps Institution of Oceanography, University of California San Diego"
+    },
+    {
+      "name": "Qian, Pei-Yuan",
+      "affiliation": "Hong Kong University of Science and Technology"
+    },
+    {
+      "name": "Qiu, Jian-Wen",
+      "affiliation": "Hong Kong Baptist University"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "Annelida",
+    "phylogenomics",
+    "phylogeny",
+    "synteny",
+    "gene-tree discordance"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/maepz/Annelida_phylogenomics",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
