@@ -3,6 +3,8 @@ message: "Please cite this data and analysis archive when using the repository. 
 type: dataset
 title: "Clarifying the annelid tree of life amid deep phylogenomic conflict: data and analysis archive"
 version: 1.0.0
+doi: 10.5281/zenodo.23755892
+date-released: 2026-10-29
 repository-code: "https://github.com/maepz/Annelida_phylogenomics"
 url: "https://github.com/maepz/Annelida_phylogenomics"
 authors:
